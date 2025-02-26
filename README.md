@@ -1,4 +1,4 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
+[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)]
 <h1 align="center">Hi 👋, I'm Amith.P</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
 <img align="right"alt="Coding" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyL6EomkJv5PAmjGe65xARXUDoaBse5zLORaq1d-Ylcezc2BQc5SkHYqTR7v5OIKh8MZw&usqp=CAU">
