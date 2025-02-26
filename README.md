@@ -18,7 +18,7 @@
 <a href="https://linkedin.com/in/amith.p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amith.p" height="30" width="40" /></a>
 <a href="https://kaggle.com/vulture02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vulture02" height="30" width="40" /></a>
 <a href="https://instagram.com/_amith_polya_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_amith_polya_" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@pamith552" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@pamith552" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@pamith552" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Amith P" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/amithpzeez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="amithpzeez" height="30" width="40" /></a>
 </p>
 
