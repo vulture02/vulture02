@@ -101,8 +101,16 @@
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="pytorch" width="40" height="40"/> 
   </a>
-  <a href="https://www.vt.edu/research/centers/vt-visualization.html" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/Virginia_Tech_Hokies_logo.svg/640px-Virginia_Tech_Hokies_logo.svg.png" alt="vt visualization" width="40" height="40"/> 
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
+  </a>
+  <!-- Convex -->
+  <a href="https://www.convex.dev/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/87538754?s=200&v=4" alt="convex" width="40" height="40"/>
+  </a>
+  <!-- NeonDB -->
+  <a href="https://neon.tech/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/100471622?s=200&v=4" alt="neondb" width="40" height="40"/>
   </a>
 </p>
 
