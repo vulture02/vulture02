@@ -102,9 +102,6 @@
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="pytorch" width="40" height="40"/> 
   </a>
-  <a href="https://www.vt.edu/research/centers/vt-visualization.html" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/Virginia_Tech_Hokies_logo.svg/640px-Virginia_Tech_Hokies_logo.svg.png" alt="vt visualization" width="40" height="40"/> 
-  </a>
 </p>
 
 
