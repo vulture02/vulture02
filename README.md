@@ -108,10 +108,6 @@
   <a href="https://www.convex.dev/" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/87538754?s=200&v=4" alt="convex" width="40" height="40"/>
   </a>
-  <!-- NeonDB -->
-  <a href="https://neon.tech/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/100471622?s=200&v=4" alt="neondb" width="40" height="40"/>
-  </a>
 </p>
 
 
