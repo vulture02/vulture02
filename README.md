@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **MERN Stack, Java, SQL**
 
-- 📫 How to reach me **amithp0210@gmail.com**
+- 📫 How to reach me amithp0210@gmail.com
 
 - ⚡ Fun fact **I can spend hours debugging a single line of code but still forget where I kept my phone!**
 
