@@ -1,5 +1,4 @@
 ![MasterHead](https://github.com/vulture02/vulture02/blob/main/GIthub.png?raw=true)
-<h1 align="center">Hi 👋, I'm Amith.P</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
 <img align="right"alt="Coding" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyL6EomkJv5PAmjGe65xARXUDoaBse5zLORaq1d-Ylcezc2BQc5SkHYqTR7v5OIKh8MZw&usqp=CAU">
 
